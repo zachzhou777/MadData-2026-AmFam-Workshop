@@ -1,0 +1,19 @@
+[project]
+name = "maddata2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.0",
+    "google-genai>=1.63.0",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "pydantic>=2.12.5",
+    "pymupdf>=1.26.7",
+    "scikit-learn>=1.8.0",
+    "torch>=2.10.0",
+    "transformers==4.57.6",
+]
